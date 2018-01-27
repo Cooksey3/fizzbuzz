@@ -18,7 +18,7 @@ public class FizzBuzz {
 	private boolean isBuzz(int n) {
 		return n % 5 == 0;
 	}
-	
+
 	private boolean isFizz(int n) {
 		return n % 3 == 0;
 	}
